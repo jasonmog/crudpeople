@@ -157,7 +157,7 @@ public class ListActivity extends AppCompatActivity {
                 messageId = R.string.person_edited;
             } else {
                 return;
-            }c
+            }
 
             save();
 
